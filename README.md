@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Subhasis Banik
 
-You can use the [editor on GitHub](https://github.com/subhasisbanik/me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Full stack developer with experience in Blockchain, MEAN stack and Java/J2EE
+
+Blockchain | MEAN | Java | Ansible | Cloud
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
