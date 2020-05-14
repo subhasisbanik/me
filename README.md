@@ -1,6 +1,6 @@
 ## Subhasis Banik
 
-Full stack developer with experience in Blockchain, MEAN stack and Java/J2EE
+Full stack developer with experience in Blockchain, MEAN stack and Java/J2EE 
 
 Blockchain | MEAN | Java | Ansible | Cloud
 
